@@ -1,4 +1,4 @@
-# privacy-policy-Pushups-Pro
+# privacy policy Pushups Pro
 
 Application: Pushups
 Last updated: March 4, 2026
