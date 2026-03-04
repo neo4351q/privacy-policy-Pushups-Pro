@@ -1,9 +1,9 @@
 # privacy policy Pushups Pro
 
-Application: Pushups
+Application: Pushups Pro
 Last updated: March 4, 2026
 
-This Privacy Policy describes how our mobile application "Pushups" (hereinafter — the "App") collects, uses, stores, and protects your information.
+This Privacy Policy describes how our mobile application "Pushups Pro" (hereinafter — the "App") collects, uses, stores, and protects your information.
 
 1. Information We Collect
 To provide the App's full functionality, synchronize your results, and improve service quality, we may collect the following data:
@@ -39,7 +39,7 @@ We may update this Privacy Policy as new features are added or as our data proce
 If you have any questions or suggestions about this Privacy Policy, or if you wish to request the deletion of your data, please contact us:
 Email: neo4351@gmail.com
 
-# Политика конфиденциальности Pushups-Pro
+# Политика конфиденциальности Pushups Pro
 
 **Приложение:** Pushups Pro (Отжимания)  
 **Дата последнего обновления:** 4 марта 2026 г.
